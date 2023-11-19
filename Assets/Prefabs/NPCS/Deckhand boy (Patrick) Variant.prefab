@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4242127521418358492
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1580026431431093287, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_text
+      value: "Haven\u2019t even seen the inside of his fishing shed yet. I could
+        take a look if I just managed to take his keys\u2026"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4501228282074553334, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_Name
+      value: Deckhand boy (Patrick) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 5526116050425854046, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20.504797
+      objectReference: {fileID: 0}
+    - target: {fileID: 5526116050425854046, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28.662
+      objectReference: {fileID: 0}
+    - target: {fileID: 5526116050425854046, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.8266497
+      objectReference: {fileID: 0}
+    - target: {fileID: 5526116050425854046, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5526116050425854046, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5526116050425854046, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5526116050425854046, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5526116050425854046, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5526116050425854046, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5526116050425854046, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5636505879478545579, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_text
+      value: "I\u2019ve worked for him for 5 years now! I should be allowed to fish
+        with him!"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6135439324372621309, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      propertyPath: m_text
+      value: Gosh I am hungry, I wonder if Helen got any hot potatoes for sale.
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4501228282074553334, guid: a519108f2c0806a47a182e1f0237aebf,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -4067677226409965985}
+  m_SourcePrefab: {fileID: 100100000, guid: a519108f2c0806a47a182e1f0237aebf, type: 3}
+--- !u!1 &335663064637666602 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4501228282074553334, guid: a519108f2c0806a47a182e1f0237aebf,
+    type: 3}
+  m_PrefabInstance: {fileID: 4242127521418358492}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-4067677226409965985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 335663064637666602}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7707133ba18cd4418ee7b7bd22f1c1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  range: 2
+  materialStates:
+  - {fileID: 0}
+  - {fileID: 0}

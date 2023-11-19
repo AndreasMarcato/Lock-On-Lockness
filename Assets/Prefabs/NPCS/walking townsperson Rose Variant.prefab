@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1806602903889804320
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3187487518165087144, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_text
+      value: Gosh Dugald has such pretty eyes.
+      objectReference: {fileID: 0}
+    - target: {fileID: 3866898593319115787, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20.504797
+      objectReference: {fileID: 0}
+    - target: {fileID: 3866898593319115787, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28.662
+      objectReference: {fileID: 0}
+    - target: {fileID: 3866898593319115787, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.8266497
+      objectReference: {fileID: 0}
+    - target: {fileID: 3866898593319115787, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3866898593319115787, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3866898593319115787, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3866898593319115787, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3866898593319115787, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3866898593319115787, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3866898593319115787, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3972644050895489278, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_text
+      value: I wish I had a brave man like Dugald. Afraid of seagulls, and yet have
+        a job where they are everywhere. So attractive.
+      objectReference: {fileID: 0}
+    - target: {fileID: 5147295286568632227, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_Name
+      value: walking townsperson Rose Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 7850951897197594738, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      propertyPath: m_text
+      value: "If only he didn\u2019t work for that old man Kenneth\u2026 that old
+        man is not even a good fisher, he just gets lucky during competitions."
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 5147295286568632227, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7600986797498470441}
+  m_SourcePrefab: {fileID: 100100000, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e, type: 3}
+--- !u!1 &6808468530845795203 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5147295286568632227, guid: fb7aa2d8d48c9d14dba7eafa27a0f42e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1806602903889804320}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7600986797498470441
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6808468530845795203}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7707133ba18cd4418ee7b7bd22f1c1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  range: 2
+  materialStates:
+  - {fileID: 0}
+  - {fileID: 0}

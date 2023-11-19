@@ -1,0 +1,148 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6290095119322529925
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 175532228402616184, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_text
+      value: If he only could tell me his secrets to get such heavy fishes, then
+        I might have a chance.
+      objectReference: {fileID: 0}
+    - target: {fileID: 223869163216615370, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1833541281118907438, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_text
+      value: "Hmpf. Kenneth wins every year, even when the fish is smaller, it is
+        always heavier\u2026"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1889293552315906365, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2016026500223269083, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20.504797
+      objectReference: {fileID: 0}
+    - target: {fileID: 2016026500223269083, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28.662
+      objectReference: {fileID: 0}
+    - target: {fileID: 2016026500223269083, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.8266497
+      objectReference: {fileID: 0}
+    - target: {fileID: 2016026500223269083, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2016026500223269083, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2016026500223269083, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2016026500223269083, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2016026500223269083, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2016026500223269083, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2016026500223269083, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4802958728776051874, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_text
+      value: Why do I even compete?
+      objectReference: {fileID: 0}
+    - target: {fileID: 7287272708740389049, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7583353040130644851, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_Name
+      value: Fisherman (Hugh) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8753070471213757692, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: m_Radius
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939449809144693849, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: radius
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939449809144693849, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: currentSelection
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8939449809144693849, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      propertyPath: maxSelectDistance
+      value: 6
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7583353040130644851, guid: 357836000c14b8245ade9635672edcfa,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -1874271080108517661}
+  m_SourcePrefab: {fileID: 100100000, guid: 357836000c14b8245ade9635672edcfa, type: 3}
+--- !u!1 &4501228282074553334 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7583353040130644851, guid: 357836000c14b8245ade9635672edcfa,
+    type: 3}
+  m_PrefabInstance: {fileID: 6290095119322529925}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-1874271080108517661
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4501228282074553334}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7707133ba18cd4418ee7b7bd22f1c1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  range: 2
+  materialStates:
+  - {fileID: 0}
+  - {fileID: 0}

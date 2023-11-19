@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4790449334697975446
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3223359128499134507, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20.504797
+      objectReference: {fileID: 0}
+    - target: {fileID: 3223359128499134507, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 28.662
+      objectReference: {fileID: 0}
+    - target: {fileID: 3223359128499134507, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.8266497
+      objectReference: {fileID: 0}
+    - target: {fileID: 3223359128499134507, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3223359128499134507, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3223359128499134507, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3223359128499134507, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3223359128499134507, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3223359128499134507, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3223359128499134507, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3329283222339826910, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_text
+      value: "I\u2019m hungreh."
+      objectReference: {fileID: 0}
+    - target: {fileID: 3832119932992278408, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_text
+      value: AARGH! SEAGULLS!
+      objectReference: {fileID: 0}
+    - target: {fileID: 6808468530845795203, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_Name
+      value: Henchman Dugald Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8495610665408279634, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      propertyPath: m_text
+      value: "Gotta guard the boss\u2019s house, he said to not have anyone enter.
+        Does tha\u2019 include tha boss?"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 6808468530845795203, guid: afee3486966c6644c8b667eb34b921e2,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7418527700323917795}
+  m_SourcePrefab: {fileID: 100100000, guid: afee3486966c6644c8b667eb34b921e2, type: 3}
+--- !u!1 &2019743794363145493 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6808468530845795203, guid: afee3486966c6644c8b667eb34b921e2,
+    type: 3}
+  m_PrefabInstance: {fileID: 4790449334697975446}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7418527700323917795
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2019743794363145493}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7707133ba18cd4418ee7b7bd22f1c1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  range: 2
+  materialStates:
+  - {fileID: 0}
+  - {fileID: 0}
