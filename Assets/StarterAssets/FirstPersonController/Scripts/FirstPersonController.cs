@@ -1,5 +1,4 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 #if ENABLE_INPUT_SYSTEM && STARTER_ASSETS_PACKAGES_CHECKED
 using UnityEngine.InputSystem;
 #endif
@@ -116,18 +115,9 @@ namespace StarterAssets
 			JumpAndGravity();
 			GroundedCheck();
 			Move();
-			Focus();
-
 		}
 
-		
-
-        private void Focus()
-        {
-            throw new NotImplementedException();
-        }
-
-        private void LateUpdate()
+		private void LateUpdate()
 		{
 			CameraRotation();
 		}
